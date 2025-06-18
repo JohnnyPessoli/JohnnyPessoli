@@ -6,7 +6,7 @@
 <h1 align="center">Olá, eu sou Johnny Pessoli!</h1>
 
 <p align="center">
-  <strong>Este é meu repositório de Análise e Ciência de Dados.</strong>
+  <strong>Este é meu repositório de Data Analytics, Controladoria e BI.</strong>
 </p>
 
 ---
