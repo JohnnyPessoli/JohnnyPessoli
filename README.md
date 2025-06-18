@@ -22,7 +22,10 @@ Sou um profissional com sólida experiência em **gestão estratégica**, **aná
 - 🎯 **Foco**: Controladoria corporativa, Data Analytics e estratégias de performance financeira.  
 - 🎓 **Formação**:  
   - Graduação em Big Data  
-  - MBA em Tecnologias para Negócios pela PUCRS  
+  - MBA em Tecnologias para Negócios pela PUCRS
+  - Graduação em Contabilidade
+  - Especialização em Gestão de Pessoas
+  - Especialização em Gestão Empresarial
 - 🧩 **Especialidades**: RFM Analysis, ETL, modelagem de dados, dashboards em Power BI, Python e SQL.
 
 ## 💻 Tecnologias e Ferramentas
