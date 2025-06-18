@@ -13,7 +13,7 @@
 
 ## 🚀 Sobre mim
 
-Sou um líder com sólida experiência em **gestão estratégica**, **análise financeira** e **controladoria**, combinando visão de negócios e expertise técnica para apoiar decisões baseadas em dados. Ao longo da minha trajetória, já:
+Sou um profissional com sólida experiência em **gestão estratégica**, **análise financeira** e **controladoria**, combinando visão de negócios e expertise técnica para apoiar decisões baseadas em dados. Ao longo da minha trajetória, já:
 
 - 📊 Estruturei dashboards e relatórios financeiros que aumentaram a transparência e agilidade na tomada de decisões.  
 - 🤝 Coordenei equipes multifuncionais para implementar processos de controle de custos e otimização de recursos.  
