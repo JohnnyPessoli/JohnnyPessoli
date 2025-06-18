@@ -53,15 +53,6 @@ Sou um profissional com sólida experiência em **gestão estratégica**, **aná
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
-  <!-- Badge Gmail -->
-  <a href="mailto:pessoly@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-
-  <!-- Badge WhatsApp -->
-  <a href="https://wa.me/5549991315772" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-  </a>
 </p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JohnnyPessoli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
